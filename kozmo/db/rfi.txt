@@ -1,0 +1,4 @@
+//somdev.me/rfi.txt
+http://somdev.me/rfi.txt
+http://somdev.me/rfi.txt%00
+http%252f%252fsomdev.me%252frfi.txt
