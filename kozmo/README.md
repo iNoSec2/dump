@@ -20,7 +20,7 @@ Kozmo supports GET & POST methods and let's you easily alter values of different
 Need to run a system command? No program, you can just do `os <command>`.\
 Believe me your experience with Kozmo is going to be smooth!
 
-![ux](https://image.ibb.co/mrynkz/Screenshot_2018_08_23_01_17_25.png)
+![ux](https://github.com/user-attachments/assets/bfe3f6ff-9224-4926-81db-56dd8f71be08)
 
 Supplying headers to comamnd line programs is a pain in the ass but kozmo makes it painless by using nano as an input handler.
 
