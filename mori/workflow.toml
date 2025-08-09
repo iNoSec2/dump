@@ -1,0 +1,32 @@
+################################
+# Custom data for the workflow #
+################################
+
+github_username = "s0md3v"
+instagram_username = "s0md3v"
+
+######################
+# Tweakable settings #
+######################
+
+days_till_dead = 30
+
+#####################
+# Workflow settings #
+#####################
+
+check = [
+  "github",
+  "instagram"
+]
+
+warn = [
+	"email"
+]
+
+announce = [
+	"email"
+]
+
+act = [
+]
